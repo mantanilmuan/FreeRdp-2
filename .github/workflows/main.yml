@@ -1,6 +1,5 @@
 name: FreeRdp
 
-
 on: workflow_dispatch
 
 jobs:
